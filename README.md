@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Marcos, junior front-end developer
+I'm Marcos Vinicius Damaceno, junior front-end developer
 
 
 - 🌱 I’m currently learning full-stack development
