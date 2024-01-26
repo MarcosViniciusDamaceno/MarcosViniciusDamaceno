@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Marcos Vinicius Damaceno, junior front-end developer
+I'm Marcos Vinicius Damaceno, junior back-end developer
 
 
-- 🌱 I’m currently learning full-stack development
+- 🌱 I’m currently learning java development
 
 <div align="center">
   <a href="https://github.com/MarcosViniciusDamaceno">
